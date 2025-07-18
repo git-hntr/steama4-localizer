@@ -5,7 +5,9 @@
 '''
 import re
 #################Шляхи до файлів#######################################
-#Оригінальний файл ачівок який знаходиться в C:\Program Files (x86)\Steam\appcache\stats\
+#Оригінальний файл ачівок який знаходиться в 
+#windows: <Папка встановлення Steam>\appcache\stats\
+#linux: <Папка бібліотеки Steam>\appcache\stats\
 #копійнути в робочу папку
 orig_a4ieve_file = r"UserGameStatsSchema_460790.bin"
 
